@@ -22,4 +22,6 @@ Here you can select the time from Berlin Clock design which is currently showing
 
 Whenever you clicking on the blocks it will convert the Berlin Clock time into digital time.
 
+# Please note : This project developed using XCode version 10.0.
+
 
